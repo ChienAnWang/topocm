@@ -1,0 +1,1 @@
+holoviews.plotting.mpl.MPLPlot.fig_rcparams['text.usetex'] = False
